@@ -1,3 +1,17 @@
+EC2 Commands :
+
+sudo apt update – to update system packages
+sudo apt install nodejs -y – to install Node.js
+sudo apt install npm -y – to install npm
+node -v – to check Node.js version
+npm -v – to check npm version
+git clone https://github.com/AbhayPatil2004/ServerJS.git – to clone GitHub repository
+cd ServerJS – to enter project folder
+npm install express – to install Express dependency
+sudo node server1.js – to run the Node.js server
+
+
+
 🟢 STEP 1: Create S3 Bucket
 1.	Open S3 service 
 2.	Click Create bucket 
