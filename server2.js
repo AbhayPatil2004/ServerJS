@@ -42,5 +42,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(80, () => {
-    console.log("Server 2 running on port 3001");
+    console.log("Server 2 running on port 80");
 });
